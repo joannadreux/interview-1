@@ -2,6 +2,7 @@
 interview questions
 
 Write a function that parses sequences from this fastq input as a string input and returns the 3 most frequently occurring sequences, along with the number of times they appeared.
+use example.fastq file as fastq is incompatible with markdown. 
 
 Input
 @3TSEQ:113:000000000-JRRHL:1:1101:10184:1937 1:N:0:1
